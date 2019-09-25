@@ -1,9 +1,9 @@
 # Kentico
 SensorPro Kentico Integration 
-High-volume email marketing & survey platform. Synchronize Kentico Contact Groups & Macro conditions with Sensorpro tags.
+high-volume email marketing & survey platform. Synchronize Kentico contacs with SensorPro.
 
 ## Installation
-- Installiation and contact group configuration
+- Installiation and configuratoin of contact group synchronization
   - https://sensorpro.net/faq/v1.2/email/Kentico/SyncContactGroups
-- Installiation and contact synchronization
+- Installiation and configuratoin of contacts synchronization
   - https://sensorpro.net/faq/v1.2/email/Kentico/SyncContacts
